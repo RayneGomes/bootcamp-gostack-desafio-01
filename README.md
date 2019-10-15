@@ -6,7 +6,7 @@
   Desafio 1: Conceitos do NodeJS
 </h3>
 
-<blockquote align="center">Desenvolvido por Rayne Gomes com a implementaão de alguns Patterns</blockquote>
+<blockquote align="center">Desenvolvido por Rayne Gomes com a implementação de alguns Patterns</blockquote>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-01?color=%2304D361">
